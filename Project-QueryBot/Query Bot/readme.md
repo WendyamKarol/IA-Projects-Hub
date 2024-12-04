@@ -20,7 +20,7 @@ L'application suit ces étapes pour fournir des réponses à vos questions :
 
 ## Dépendances et Installation 
 ----------------------------
-Pour utiliser Query Bot**, suivez les étapes ci-dessous :
+Pour utiliser **Query Bot**, suivez les étapes ci-dessous :
 
 1. Installez les dépendances requises en exécutant la commande suivante :
    ```bash
