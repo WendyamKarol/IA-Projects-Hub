@@ -50,4 +50,4 @@ Pour utiliser QueryBot, suivre les étapes suivantes :
 
 ## Licence 
 -------
-Query Bot est sous licence MIT.[MIT License]
+Query Bot est sous licence MIT.
