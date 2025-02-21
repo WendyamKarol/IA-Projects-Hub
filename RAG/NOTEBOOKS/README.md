@@ -14,7 +14,7 @@ Le projet utilise une combinaison de technologies modernes pour offrir une solut
 - **Frameworks** : LangChain, Unstructured  
 - **Modèles de langage** : GPT-4 avec vision (OpenAI)  
 - **Base de données** : Bases de données vectorielles  
-- **Interface utilisateur** : Streamlit (optionnel)  
+- **Interface utilisateur** : Streamlit
 - **IDE** : Visual Studio Code  
 
 ### Détails techniques
