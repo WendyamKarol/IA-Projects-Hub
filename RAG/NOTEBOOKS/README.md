@@ -60,12 +60,9 @@ Voici les principales fonctionnalités du projet **RAG Multimodal** :
 
 ### 4. **Interface utilisateur interactive**
    - Une application **Streamlit** permet aux utilisateurs de soumettre des documents, de poser des questions et de visualiser les réponses générées.  
-   - Visualisation des résultats sous forme de texte, d'images ou de tableaux, selon le type de document analysé.  
+   - Visualisation des résultats sous forme de texte, d'images ou de tableaux, selon le type de document analysé.
 
-### 5. **Extensibilité et modularité**
-   - Le système est conçu pour être facilement extensible, permettant l'ajout de nouveaux formats de documents ou de modèles de langage.  
-   - L'architecture modulaire facilite l'intégration de nouvelles fonctionnalités ou l'adaptation à des cas d'usage spécifiques.  
-
+---
 
 ## Résultats et apprentissages
 
